@@ -87,7 +87,7 @@ EDGE_HOSTS = [
         "EDGE_HOSTS",
         "www.dbs.com.sg:443,www.5h.com:443,cf.itv888.cn:443,fn.130519.xyz:443,cdn.www.wto.org:443,cnllm.com:443,cmcc.cc.cd:443,"
         "www.zendesk.com:443,linear.app:443,01-qq.com:443,www.dg22.top:443,ex.warspite.dpdns.org:443,101yaoye.com:443,"
-        "224322.xyz:443,login.rockwellautomation.com:443,www.vastnovel.com:443,www.dentoncounty.gov:443,staticdelivery.nexusmods.com:443,cdn.7zz.cn:443,www.vmware.com:443",
+        "224322.xyz:443,store.ubi.com:443,www.vastnovel.com:443,bbs.alipansou.com:443,www.galgamex.net:443,www.shopify.com:443,fn.130519.xyz:443",
     ).split(",")
     if h.strip()
 ]
